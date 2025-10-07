@@ -1,7 +1,3 @@
-Claro! Vou elaborar um resumo completo e didático sobre **Processos de Design de IHC**, baseado no material da PUC Minas (Barbosa et al., 2021) e demais referências, com linguagem clara e acessível, mesmo para iniciantes.
-
----
-
 # 📘 RESUMO: PROCESSOS DE DESIGN DE IHC
 
 ## 🧩 O que são artefatos e por que são importantes?
@@ -204,5 +200,6 @@ Aplicar métodos estruturados de IHC não é um luxo – é uma **necessidade** 
 - NIELSEN, J. (1994). *Engenharia de Usabilidade*.
 - CYBIS, W.; BETIOL, A. H.; FAUST, R. (2015). *Ergonomia e Usabilidade*.
 - Materiais da disciplina IHC – PUC Minas (Profa. Lucila Ishitani).
+
 
 Espero que este resumo tenha sido claro e útil! Qualquer dúvida, estou à disposição 😊
