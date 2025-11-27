@@ -1,4 +1,4 @@
-# 📘 Resumo Explicativo: Design de IHC – Parte II
+# Design de IHC – Parte II
 
 ## 🧠 O que são **Deceptive Patterns (Padrões Enganosos)**?
 
