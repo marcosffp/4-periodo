@@ -1,7 +1,3 @@
-Claro! Vamos entender o **Método de Avaliação de Comunicabilidade (MAC)** de um jeito simples e prático, como se estivéssemos conversando.
-
----
-
 ### 1. Introdução: O que é Interação Humano-Computador?
 
 Imagine que **Interação Humano-Computador (IHC)** é a área que estuda como as pessoas se comunicam com sistemas digitais: sites, aplicativos, programas como Word, redes sociais etc.  
